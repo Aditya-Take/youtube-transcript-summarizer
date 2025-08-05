@@ -16,7 +16,7 @@
 
 
 ## Output Screenshot
-![alt text](/extention/images/output.png?raw=true)
+![Output Screenshot](images/output.png)
 
 ## Installation
 - Clone this repository to your local machine:

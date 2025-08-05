@@ -3,7 +3,7 @@
 
 
 ## Project Stages
-![alt text](/extention/images/stages.png?raw=true)
+![Project Stages](images/stages.png)
 
 
 ## Features  
